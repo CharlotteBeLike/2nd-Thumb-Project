@@ -1,1 +1,0 @@
-# 2nd-Thumb-Project
