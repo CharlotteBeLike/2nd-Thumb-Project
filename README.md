@@ -1,5 +1,5 @@
 # 2nd Thumb Project
-<sub> The 2nd Thumb Project © 2024 by Charlotte Malyshev is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 </sub> International 
+<sub> The 2nd Thumb Project © 2024 by Charlotte Malyshev is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International </sub><br>
 The 2nd Thumb project was created during during HackKu. It was inspired by Dani Clonde but the design is completely different and original.
 <br><br>
 ![Screenshot from 2024-04-14 04-35-17](https://github.com/CharlotteBeLike/HackKu2024---2nd-Thumb-Project/assets/150643227/baa643fd-8540-4d36-91be-6b111d9568a6)
