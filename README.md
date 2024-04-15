@@ -21,7 +21,7 @@ The main issue I have with the old design is its tendon based design. Lots of pr
 - Essentially open loop (when a system outputs a signal but does not receive feedback. ex: common FDM 3d printer)<br>
 - Possible amage overtime from simple environments (ex: you cut the tendon while working in the kitchen with knives)<br>
 
-<h2> What's next for 2nd Thumb/6th finger</h2>
+<h2> What's next for 2nd Thumb?</h2>
 I want to keep working on this project for personal daily use. Some things I wish I could have added, but wasn't able to are:<br>
 - Touch feedback<br>
 - Wireless control using your foot to control the thumb (inspired by Dani Clonde)<br>
