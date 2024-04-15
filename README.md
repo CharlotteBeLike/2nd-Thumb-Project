@@ -21,11 +21,15 @@ The main issue I have with the old design is its tendon based design. Lots of pr
 - Essentially open loop (when a system outputs a signal but does not receive feedback. ex: common FDM 3d printer)<br>
 - Possible amage overtime from simple environments (ex: you cut the tendon while working in the kitchen with knives)<br>
 
-<h2> What's next for 2nd Thumb?</h2>
+<h2> What Im adding in the near future</h2>
 I want to keep working on this project for personal daily use. Some things I wish I could have added, but wasn't able to are:<br>
-- Touch feedback<br>
-- Wireless control using your foot to control the thumb (inspired by Dani Clonde)<br>
-- More degrees of freedom<br>
+- Touch feedback <br>
+- Wireless control using your foot to control the thumb (inspired by Dani Clonde) <br>
+- More degrees of freedom <br>
+- Maybe strapless? <br>
+- Lower thumb attachment point <br>
+- Holes in Hand mount for breathability of skin <br>
+- Less clunk <br>
 
 <br><br><br>
 <h2> Want to see more photos?</h2>
