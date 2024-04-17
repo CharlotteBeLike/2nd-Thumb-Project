@@ -36,7 +36,12 @@ I want to keep working on this project for personal daily use. Some things I wis
 - More Arduino <br>
 - Electrical engineering (what are resistors, capacitors, diodes, transistors, etc.) <br>
 
+<h2> What i've learned so far:</h2>
+- Bridging Curves <br>
+- Projected Curves <br>
+- Composite Curves <br>
+- Creating surfaces by lofting curves <br>
 
-<br><br><br>
+<br><br>
 <h2> Want to see more photos?</h2>
 head up to the <a href="https://github.com/CharlotteBeLike/2nd-Thumb-Project/tree/main/Gallery">Gallery folder</a> to see more!
