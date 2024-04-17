@@ -34,7 +34,7 @@ I want to keep working on this project for personal daily use. Some things I wis
 <h2> What I need to learn to accomplish this:</h2>
 - Onshape surface modeling <br>
 - More Arduino <br>
-- Electrical engineering <br>
+- Electrical engineering (what are resistors, capacitors, diodes, transistors, etc.) <br>
 
 
 <br><br><br>
