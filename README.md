@@ -36,7 +36,7 @@ I want to keep working on this project for personal daily use. Some things I wis
 - More Arduino <br>
 - Electrical engineering (what are resistors, capacitors, diodes, transistors, etc.) <br>
 
-<h2> What i've learned so far:</h2>
+<h2> What I've learned so far:</h2>
 - Bridging Curves <br>
 - Projected Curves <br>
 - Composite Curves <br>
